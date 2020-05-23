@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rooufer.github.io</id>
     <title>若花生</title>
-    <updated>2020-05-23T12:44:40.798Z</updated>
+    <updated>2020-05-23T12:56:09.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rooufer.github.io"/>
     <link rel="self" href="https://rooufer.github.io/atom.xml"/>
@@ -15,14 +15,7 @@
         <id>https://rooufer.github.io/lianghui2020/</id>
         <link href="https://rooufer.github.io/lianghui2020/">
         </link>
-        <updated>2020-05-23T12:41:52.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年整理工作]]></title>
-        <id>https://rooufer.github.io/rooufer.cn/</id>
-        <link href="https://rooufer.github.io/rooufer.cn/">
-        </link>
-        <updated>2020-05-23T07:55:55.000Z</updated>
+        <updated>2020-05-22T12:41:52.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
